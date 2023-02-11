@@ -1,0 +1,12 @@
+D:\poroje c#\WebApiSeyyedi\WebApiSeyyedi.Data\obj\Debug\net7.0\WebApiSeyyedi.Data.csproj.AssemblyReference.cache
+D:\poroje c#\WebApiSeyyedi\WebApiSeyyedi.Data\obj\Debug\net7.0\WebApiSeyyedi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\poroje c#\WebApiSeyyedi\WebApiSeyyedi.Data\obj\Debug\net7.0\WebApiSeyyedi.Data.AssemblyInfoInputs.cache
+D:\poroje c#\WebApiSeyyedi\WebApiSeyyedi.Data\obj\Debug\net7.0\WebApiSeyyedi.Data.AssemblyInfo.cs
+D:\poroje c#\WebApiSeyyedi\WebApiSeyyedi.Data\obj\Debug\net7.0\WebApiSeyyedi.Data.csproj.CoreCompileInputs.cache
+D:\poroje c#\WebApiSeyyedi\WebApiSeyyedi.Data\bin\Debug\net7.0\WebApiSeyyedi.Data.deps.json
+D:\poroje c#\WebApiSeyyedi\WebApiSeyyedi.Data\bin\Debug\net7.0\WebApiSeyyedi.Data.dll
+D:\poroje c#\WebApiSeyyedi\WebApiSeyyedi.Data\bin\Debug\net7.0\WebApiSeyyedi.Data.pdb
+D:\poroje c#\WebApiSeyyedi\WebApiSeyyedi.Data\obj\Debug\net7.0\WebApiSeyyedi.Data.dll
+D:\poroje c#\WebApiSeyyedi\WebApiSeyyedi.Data\obj\Debug\net7.0\refint\WebApiSeyyedi.Data.dll
+D:\poroje c#\WebApiSeyyedi\WebApiSeyyedi.Data\obj\Debug\net7.0\WebApiSeyyedi.Data.pdb
+D:\poroje c#\WebApiSeyyedi\WebApiSeyyedi.Data\obj\Debug\net7.0\ref\WebApiSeyyedi.Data.dll
